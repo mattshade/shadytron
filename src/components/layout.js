@@ -57,7 +57,7 @@ const Layout = ({ children }) => (
           {children}
           <footer
           style={{
-            position: `abbsolute`,
+            position: `absolute`,
             bottom: `20px`,
             fontSize: `14px`,
           }}>
